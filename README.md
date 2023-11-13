@@ -1,8 +1,10 @@
-![rust-is-revolution.png](rust-is-revolution.png)
+<div align="center">
+<img src="rust-is-revolution.png" alt="drawing" width="350"/>
 
 # Hello, it will be step-by-step guide how to create simple docker image with Rust
+</div>
 
-It was my first experience with `docker`, 
+It was my first experience with `docker`+`rust`, 
 but I have decided that I must share it :)
 
 ## Steps to done it:
